@@ -1,5 +1,5 @@
 {
-  "name": "larvaPlus/laravel-ip2region",
+  "name": "larvaplus/laravel-ip2region",
   "description": "This is a ip2region.",
   "keywords": [ "laravel", "geoip", "ip2location", "ip2region" ],
   "type": "library",
